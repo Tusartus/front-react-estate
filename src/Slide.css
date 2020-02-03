@@ -1,0 +1,30 @@
+.containerSlide {
+    width: 100%;
+    margin: auto;
+    padding-top: 20px;
+    justify-content: center;
+    margin-left: 23px;
+}
+
+.containerSlide img {
+    height: 450px;
+    width: 100%;
+    justify-content: center;
+    
+
+
+}
+img{
+    width:100%;
+    height: auto;
+}
+
+
+h2.name-architect{
+    padding-bottom: 14px;
+    border-bottom: 1px solid rgb(173, 136, 136);
+    -webkit-box-shadow: 13px 21px 28px 18px rgba(0,0,0,0.4);
+-moz-box-shadow: 13px 21px 28px 18px rgba(0,0,0,0.4);
+box-shadow: 13px 21px 28px 18px rgba(0,0,0,0.4);
+    
+}
